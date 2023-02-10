@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElitsaDev
-- 👀 I’m interested in Web design and Algoritms
+- 👀 I’m interested in Web design and Algorithms
 - 🌱 I’m currently learning Java, Spring, JavaScript, HTML5 and CSS
 
 
